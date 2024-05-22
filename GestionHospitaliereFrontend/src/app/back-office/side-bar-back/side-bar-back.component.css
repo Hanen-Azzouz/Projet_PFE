@@ -1,0 +1,5 @@
+.navbar-nav.bg-dark.sidebar.sidebar-dark.accordion {
+    background-color: rgba(9, 94, 136, 0.977) !important;
+    color: black; /* Ensure text is visible against the light green background */
+    
+  }
